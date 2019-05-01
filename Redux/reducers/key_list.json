@@ -1,0 +1,23 @@
+[
+    {
+        "key":"A"
+    },
+    {
+        "key":"A#",
+        "shortKey":true
+    },
+    {
+        "key":"B"
+    },
+    {
+        "key":"B#",
+        "shortKey":true
+    },
+    {
+        "key":"C"
+    },
+    {
+        "key":"C#",
+        "shortKey":true
+    }
+]
